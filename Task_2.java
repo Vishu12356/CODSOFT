@@ -8,7 +8,7 @@ public class Task_2 extends JFrame implements ActionListener{
         JButton b;
         JButton pad,text;
         Task_2(){
-            super("Char Word Count Tool - JTP");
+            super("Char Word Count Tool");
             lb1=new JLabel("Characters: ");
             lb1.setBounds(50,50,100,20);
             lb2=new JLabel("Words: ");
