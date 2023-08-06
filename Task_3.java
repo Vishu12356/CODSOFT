@@ -1,6 +1,6 @@
 package CodSoft;
 import java.util.Scanner;
-public class Task_4 {
+public class Task_3 {
 
         public static void main(String args[] ){
 
